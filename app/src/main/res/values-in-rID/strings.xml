@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileTPA</string>
+    <string name="title_Username">Nama Pengguna</string>
+    <string name="title_Send">Kirim</string>
+    <string name="title_FullName">Nama Lengkap</string>
+    <string name="title_LastSentMessage">Pesan Terakhir Terkirim</string>
+    <string name="title_PickUpLocation">Lokasi Pengambilan</string>
+    <string name="title_TypePrintShop">Ketik Toko Print...</string>
+    <string name="title_GoogleDriveLinkofYourFile">Link Google Drive File Kamu</string>
+    <string name="title_PasteYourLinkhere">Paste Link Kamu Disini...</string>
+    <string name="title_PaperType">Tipe Kertas</string>
+    <string name="title_TypePaper">Ketik Tipe Kertas (A4/A5)...</string>
+    <string name="title_PrintOption">Opsi Print</string>
+    <string name="title_TypePrintOption">Ketik Opsi Print (Color/BW)...</string>
+    <string name="title_Note">Catatan</string>
+    <string name="title_TypeNote">Ketik Catatan...</string>
+    <string name="title_PaymentMethod">Metode Pembayaran</string>
+    <string name="title_TypePaymentMethod">Ketik Metode Pembayaran (Transfer/Cash)...</string>
+    <string name="title_OrderNow">Pesan Sekarang</string>
+    <string name="title_ViewOrder">Lihat Order</string>
+    <string name="title_ViewOrderHistory">Lihat Histori Order</string>
+    <string name="title_Email">Email</string>
+    <string name="title_Password">Password</string>
+    <string name="title_SignIn">Masuk</string>
+    <string name="title_SignUpHere">Daftar Disini</string>
+    <string name="title_Name">Name</string>
+    <string name="title_Phone">Nomor Telepon</string>
+    <string name="title_SignUp">Daftar</string>
+    <string name="title_GoogleSignUp">Daftar Dengan Google</string>
+    <string name="title_Date">Tanggal</string>
+    <string name="title_Paper">Kertas</string>
+    <string name="title_Color">Warna</string>
+    <string name="title_Description">Deskripsi</string>
+    <string name="title_Price">Harga</string>
+    <string name="title_GoogleDriveLink">Link Google Drive</string>
+    <string name="title_Payment">Pembayaran</string>
+    <string name="title_TakeOrder">Selesai Orderan</string>
+    <string name="title_MyAccount">Akun Saya</string>
+    <string name="title_Update_Profile">Ubah Profil</string>
+    <string name="title_Meanuneditablefield">Artinya tidak dapat diubah</string>
+    <string name="title_Meaneditablefield">Artinya dapat diubah</string>
+    <string name="titile_SortByPrice">Urut Berdasarkan Harga</string>
+    <string name="title_CustomerService">Layanan Pelanggan</string>
+    <string name="title_SEARCHPRINTSHOP">CARI TOKO PRINT</string>
+    <string name="title_ClassicSearch">Pencarian Biasa</string>
+    <string name="title_MapSearch">Pencarian Map</string>
+    <string name="title_UpdateMyProfile">Ubah Profil Saya</string>
+    <string name="title_NoTransactionHappend">Tidak Ada Riwayat Transaksi</string>
+    <string name="title_NoOrder">Tidak Ada Pesanan</string>
+    <string name="title_GoogleSignIn">Masuk Dengan Google</string>
+    <string name="text_quantity">Kuantitas</string>
+    <string name="ph_quantity">Masukkan Kuantitas..</string>
+
+</resources>

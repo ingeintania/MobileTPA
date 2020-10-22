@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ui.home.HomeFragment"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/progressBarLl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:indeterminateTint="@color/common_google_signin_btn_text_dark"></ProgressBar>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contentLl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone">
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/sliderVp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:overScrollMode="never"/>
+    </LinearLayout>
+
+</LinearLayout>

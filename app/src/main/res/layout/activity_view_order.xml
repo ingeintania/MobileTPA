@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ViewOrderActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/progressBarLl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:indeterminateTint="@color/common_google_signin_btn_text_dark"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp">
+        </ProgressBar>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/no_order"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title_NoOrder"
+            android:layout_gravity="center"
+            android:textAlignment="center">
+
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/order"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/vieworderRv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="5">
+
+            <Button
+                android:id="@+id/sortbypriceBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/titile_SortByPrice"
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="20dp"
+                android:backgroundTint="@color/common_google_signin_btn_text_dark"
+                app:icon="@drawable/baseline_trending_up_black_24dp">
+
+            </Button>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.OwnerHomeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="50dp"
+        android:orientation="vertical"
+        android:layout_centerVertical="true">
+
+        <Button
+            android:id="@+id/vieworderBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View Order"
+            android:backgroundTint="@color/common_google_signin_btn_text_dark">
+
+        </Button>
+
+        <Button
+            android:id="@+id/viewhistoryBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View Order History"
+            android:backgroundTint="@color/common_google_signin_btn_text_dark">
+
+        </Button>
+
+    </LinearLayout>
+
+</RelativeLayout>

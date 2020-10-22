@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">MobileTPA</string>
+    <string name="title_activity_print_shop_search">PrintShopSearchActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_order">Order</string>
+    <string name="title_notifications">Notif</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_more">More</string>
+    <string name="title_activity_search_maps">Map</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Change language -->
+    <string name="title_Username">Username</string>
+    <string name="title_Send">Send</string>
+    <string name="title_FullName">Full Name</string>
+    <string name="title_LastSentMessage">Last Sent Message</string>
+    <string name="title_PickUpLocation">Pick Up Location</string>
+    <string name="title_TypePrintShop">Type Print Shop...</string>
+    <string name="title_GoogleDriveLinkofYourFile">Google Drive Link of Your</string>
+    <string name="title_PasteYourLinkhere">Paste Your Link here..."</string>
+    <string name="title_PaperType">Paper Type</string>
+    <string name="title_TypePaper">Type Paper (A4/A5)...</string>
+    <string name="title_PrintOption">Print Option</string>
+    <string name="title_TypePrintOption">Type Print Option (Color/BW)...</string>
+    <string name="title_Note">Note</string>
+    <string name="title_TypeNote">Type Note...</string>
+    <string name="title_PaymentMethod">Payment Method</string>
+    <string name="title_TypePaymentMethod">Type Payment Method (Transfer/Cash)..</string>
+    <string name="title_OrderNow">Order Now</string>
+    <string name="title_ViewOrder">View Order</string>
+    <string name="title_ViewOrderHistory">View Order History</string>
+    <string name="title_Email">Email</string>
+    <string name="title_Password">Password</string>
+    <string name="title_SignIn">Sign In</string>
+    <string name="title_SignUpHere">Sign Up Here</string>
+    <string name="title_Name">Name</string>
+    <string name="title_Phone">Phone</string>
+    <string name="title_SignUp">Sign Up</string>
+    <string name="title_GoogleSignUp">Google Sign Up</string>
+    <string name="title_Date">Date</string>
+    <string name="title_Paper">Paper</string>
+    <string name="title_Color">Color</string>
+    <string name="title_Description">Description</string>
+    <string name="title_Price">Price</string>
+    <string name="title_GoogleDriveLink">Google Drive Link</string>
+    <string name="title_Payment">Payment</string>
+    <string name="title_TakeOrder">Take Order</string>
+    <string name="title_MyAccount">My Account</string>
+    <string name="title_Update_Profile">Update Profile</string>
+    <string name="title_Meanuneditablefield">Mean uneditable field</string>
+    <string name="title_Meaneditablefield">Mean editable field</string>
+    <string name="titile_SortByPrice">Sort By Price</string>
+    <string name="title_CustomerService">Customer Service</string>
+    <string name="title_SEARCHPRINTSHOP">SEARCH PRINT SHOP</string>
+    <string name="title_ClassicSearch">Classic Search</string>
+    <string name="title_MapSearch">Map Search</string>
+    <string name="title_UpdateMyProfile">Update My Profile</string>
+    <string name="title_NoTransactionHappend">No Transaction Happend</string>
+    <string name="title_NoOrder">No Order Is Coming</string>
+    <string name="title_GoogleSignIn">Google Sign In</string>
+    <string name="text_quantity">Quantity</string>
+    <string name="ph_quantity">Input Quantity..</string>
+
+
+</resources>
